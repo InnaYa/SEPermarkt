@@ -42,4 +42,4 @@ public class Kasse {
 				
 			
 		
-}
+}//Nutzloser Kommentar
